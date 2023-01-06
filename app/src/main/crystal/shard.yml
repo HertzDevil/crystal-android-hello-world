@@ -1,0 +1,19 @@
+name: crystal-android-hello-world
+version: 0.1.0
+
+authors:
+  - Quinton Miller <nicetas.c@gmail.com>
+
+# description: |
+#   Short description of 
+
+crystal: 1.6.0
+
+dependencies:
+  opengl:
+    github: icy-arctic-fox/opengl.cr
+    branch: gles2-3.0
+  android_ndk:
+    github: HertzDevil/android-ndk.cr
+
+license: MIT
