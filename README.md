@@ -9,6 +9,6 @@ https://user-images.githubusercontent.com/1361918/211107664-97795f49-36a4-4ec2-8
 
 1. Install the Android NDK
 2. Prepare a Crystal compiler with Android support from
-   [this branch](https://github.com/HertzDevil/crystal/tree/test/termux)
+   [this branch](https://github.com/HertzDevil/crystal/tree/feature/aarch64-android)
 3. Run `CRYSTAL=<bin/crystal from above> make`
 4. If an Android device or emulator is available, run `make install`
